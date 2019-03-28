@@ -14,8 +14,6 @@ Image classification: dogs vs. cats; traffic signs.
 
 Text categorization and labeling: 20 newsgroups; Ted talks.
 
-#### Keras
-
 * *keras-20ng-cnn.py*: 20 newsgroups classification with a 1D-CNN
 * *keras-20ng-rnn.py*: 20 newsgroups classification with a RNN
 * *keras-ted-cnn.py*: Ted talks labeling with a 1D-CNN
