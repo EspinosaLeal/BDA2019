@@ -1,4 +1,4 @@
-# Day 1
+# BDA Lecture 3
 
 ## Exercise sessions
 
